@@ -1,0 +1,24 @@
+/* add your CSS here */
+body {
+  padding: 20px;
+}
+
+#container{
+  border : 2px solid grey;
+  padding: 20px;
+}
+
+img {
+  width: 300px;
+}
+.animal-info {
+  font-style: italic ;
+  border : 2px solid grey;
+  padding: 1px;
+}
+
+li {
+  list-style: none;
+}
+
+span { font-weight:bold; }
